@@ -181,7 +181,7 @@ else:
     print('consonant')'''
 
 #15
-grade = input('Enter your grade or k: ')
+'''grade = input('Enter your grade or k: ')
 time = input('Enter Morning OR Afternoon: ')
 if grade == 'k':
     if time == 'Morning':
@@ -202,7 +202,7 @@ elif int(grade) >=9 and int(grade) <= 12:
     if time == 'Morning':
         print(('The pool is open at 11 am.'))
     elif time == 'Afternoon':
-        print(('The pool is open at 3 pm.'))
+        print(('The pool is open at 3 pm.'))'''
 
 #16
 '''flavor = input('Pick a flavor: ')
